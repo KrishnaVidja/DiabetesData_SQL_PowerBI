@@ -84,5 +84,6 @@ Throughout the project, my emphasis on data accuracy, user-friendly visualizatio
 
 I delved deeper into the diabetes data using SQL, structuring the information in a way that made it easier to analyze. By normalizing the data and establishing relationships between different tables, I was able to gain a comprehensive understanding of the dataset. You can explore the detailed findings and insights in the file I uploaded to the repository. Additionally, I included an Entity Relationship Diagram (ERD) that provided a visual representation of how the data is interconnected, aiding in my analysis process.
 
+![HospitalDB_ERD_2022](https://github.com/KrishnaVidja/DiabetesData_SQL_PowerBI/assets/106781881/6201cef2-cffe-49d4-b656-e3f0044da1f8)
 
 
